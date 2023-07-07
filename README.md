@@ -1,2 +1,2 @@
 # Micro-Project-1
- cuvette micro-projrct-1 (macbook-pro1)
+micro-project-1 (macbook-pro1)
