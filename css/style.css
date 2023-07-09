@@ -13,21 +13,21 @@
   body {
     width: 100%;
     height: 100%;
-    /* font-family: Inter; */
+    font-family: Inter;
   }
   
   #main {
     width: 100%;
     height: 100%;
-    font-family: Inter;
   }
   
   #rectangle1 {
     width: 100%;
-    height: 69%;
+    height: 71%;
     background-color: #ffcd9e;
     display: inline-flex;
     justify-content: center;
+    padding-bottom: 20px;
   }
 
  .text-box {
@@ -37,7 +37,7 @@
   }
 
  .text-box h1 {
-    font-size: 35px;
+    font-size: 36px;
     font-weight: 700;
     line-height: 150%;
     margin-top: 20px;
@@ -48,7 +48,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 32px;
-    margin: 18px 0;
+    margin-bottom: 15px;
     color: #484848;
   }
  .text-box h4 {
@@ -56,7 +56,7 @@
     font-weight: 800;
     line-height: 32px;
     color: #282828;
-    margin: 18px 0;
+    margin-bottom: 28px;
   }
   
  .text-box input {
@@ -70,7 +70,7 @@
     line-height: 32px;
     letter-spacing: 0em;
     text-align: left;
-    margin: 10px 0;
+    margin-bottom: 12px;
   }
   
  .text-box button {
@@ -78,6 +78,7 @@
     height: 45px;
     border-radius: 8px;
     margin-left: 15px;
+    margin-bottom: 12px;
     color: #ffffff;
     background-color: #282828;
     font-size: 16px;
@@ -92,7 +93,7 @@
 
  .text-box span {
     color: #FFF;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 500;
     margin-left: 40px;
@@ -100,21 +101,22 @@
 
   .photo img {
     display: inline-flex;
-    height: 465px;
-    width: 480px; 
+    height: 455px;
+    width: 460px; 
     flex-shrink: 0;
-    margin-left: 90px;
+    margin-left: 110px;
   }
   
 
   #rectangle2 {
     width: 100%;
-    height: 32%;
+    height: 29%;
     background-color: #282828;
     display: flex;
     align-items: center;
     justify-content: space-around;
     font-style: Inter;
+    padding: 90px 0;
   }
   
   #rectangle2 #goto a {
@@ -126,7 +128,7 @@
     font-weight: 400;
     margin-top: 8px;
     margin-bottom: 8px;
-    margin-right: 250px;
+    margin-right: 270px;
     font-family: Inter;
   }
   
